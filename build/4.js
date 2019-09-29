@@ -1,6 +1,6 @@
 webpackJsonp([4],{
 
-/***/ 2028:
+/***/ 2027:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -12,11 +12,11 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_components_module__ = __webpack_require__(13);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_directives_module__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__pipes_pipes_module__ = __webpack_require__(64);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__newcalendar__ = __webpack_require__(2168);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__newcalendar__ = __webpack_require__(2167);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__angular_common__ = __webpack_require__(15);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__angular_router__ = __webpack_require__(2171);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__angular_router__ = __webpack_require__(2170);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_angular_calendar__ = __webpack_require__(415);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__calendar_header__ = __webpack_require__(2172);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__calendar_header__ = __webpack_require__(2171);
 // (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -77,15 +77,15 @@ var AddonCalendarNewModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 2168:
+/***/ 2167:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AddonCalendarNewPage; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_angular_calendar__ = __webpack_require__(415);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__customise_date_formats__ = __webpack_require__(2169);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__custom_event_title_formatter__ = __webpack_require__(2170);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__customise_date_formats__ = __webpack_require__(2168);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__custom_event_title_formatter__ = __webpack_require__(2169);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_ionic_angular__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ngx_translate_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__providers_calendar__ = __webpack_require__(283);
@@ -447,7 +447,7 @@ var AddonCalendarNewPage = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 2169:
+/***/ 2168:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -495,7 +495,7 @@ var CustomDateFormatter = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 2170:
+/***/ 2169:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -534,7 +534,7 @@ var CustomEventTitleFormatter = /** @class */ (function (_super) {
 
 /***/ }),
 
-/***/ 2171:
+/***/ 2170:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8188,7 +8188,7 @@ var VERSION = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["_11" /* Version *
 
 /***/ }),
 
-/***/ 2172:
+/***/ 2171:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
